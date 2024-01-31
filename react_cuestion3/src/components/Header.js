@@ -6,7 +6,7 @@ export default function Header(){
         <div>
         <header className="bg-dark text-white p-4">
           <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-            <Link className="navbar-brand" to="/">Mi Sitio</Link>
+            <Link className="navbar-brand" to="/">Inicio</Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>
